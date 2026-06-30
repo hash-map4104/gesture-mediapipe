@@ -10,12 +10,6 @@ An interactive computer vision application that lets you draw on your screen in 
 * **Dynamic UI:** Features a sleek, semi-transparent header bar with selectable color swatches and active status indicators.
 * **On-Screen Feedback:** Real-time toast notifications for saving files, along with an active mode/status display.
 
-## 🛠️ Requirements
-
-Ensure you have Python 3.7+ installed. You will need the following libraries to run this project:
-
-```bash
-pip install opencv-python mediapipe numpy```
 
 
 ## 🎮 Quick Start: How to Use It
@@ -46,5 +40,14 @@ While the application window is active and in focus, use your keyboard to contro
 | **`q`** | **Quit** | Safely closes the application and turns off your webcam. |
 
 *(Note: The eraser size is currently fixed to a large radius for quick and easy mistake clearing!)*
+
+
+
+## 🛠️ Requirements
+
+Ensure you have Python 3.7+ installed. You will need the following libraries to run this project:
+
+```bash
+pip install opencv-python mediapipe numpy
 
 
