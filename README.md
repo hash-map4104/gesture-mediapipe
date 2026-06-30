@@ -15,7 +15,8 @@ An interactive computer vision application that lets you draw on your screen in 
 Ensure you have Python 3.7+ installed. You will need the following libraries to run this project:
 
 ```bash
-pip install opencv-python mediapipe numpy)))
+pip install opencv-python mediapipe numpy```
+
 
 ## 🎮 Quick Start: How to Use It
 
